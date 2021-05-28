@@ -6,7 +6,8 @@ function Description(props) {
 
   const StyledDescription = styled.div`
     width: 80vw;
-    margin: 40px;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 10px;
     background-color: lightgray;
   `;
